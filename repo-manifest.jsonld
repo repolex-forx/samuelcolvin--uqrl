@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/uqrl/commit/e10907542ed81e620864b638b44230c86d5a2342",
       "git:hexsha": "e10907542ed81e620864b638b44230c86d5a2342",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
