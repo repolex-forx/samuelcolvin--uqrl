@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "uqrl",
+  "versions": [
+    {
+      "commit": "e10907542ed81e620864b638b44230c86d5a2342",
+      "parsed_at": "2026-10-11T08:14:49.245613+00:00",
+      "filetree": "filetree/e10907542ed81e620864b638b44230c86d5a2342.nq.gz",
+      "blobs": [
+        "blob/13d36323a2f207c9212e434151240d33327959c0.nq.gz",
+        "blob/0dfd5ccc6d592268a4478942911dab091d42e7fe.nq.gz",
+        "blob/1af3f4c6e8d43d824416a3ca8a1670400e00c26a.nq.gz",
+        "blob/ed105194af0d51f4fd1af036e3a274068db6ab0e.nq.gz",
+        "blob/d0d0a37307bb45d13fe4b45cd256c357a97c49d2.nq.gz",
+        "blob/a7a79d2e53e9b1e1a85c765b534de1fd45c832e7.nq.gz",
+        "blob/2246c2c268c677f05a6d2884faad9bc74fb53611.nq.gz",
+        "blob/744d0f670a36f22d9f4e212c36baf2ab7dc738d5.nq.gz",
+        "blob/658794a3aa6ddea083370494c1c103dfdde3e8fc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
